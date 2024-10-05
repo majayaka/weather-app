@@ -68,3 +68,4 @@ It's 25 degrees Celsius in Tokyo, and the weather is clear sky.
 ##　Important Notes
 Ensure that your API key is not exposed. Add the .env file to .gitignore before pushing your code to a public repository to prevent accidental exposure of your API key.
 
+credit: https://github.com/bmorelli25/simple-nodejs-weather-app
