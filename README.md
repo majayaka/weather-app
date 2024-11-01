@@ -17,7 +17,7 @@ This is a simple weather forecast app that uses the OpenWeatherMap API to displa
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/majayaka/weather-app.git
     cd weather-app
     ```
 
